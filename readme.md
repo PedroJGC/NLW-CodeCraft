@@ -67,10 +67,6 @@ Projeto desenvolvido durante um evento da **Rocketseat**.
 🔗 [LinkedIn](https://www.linkedin.com/in/pedrojgc/)  
 📧 [Email](pedro.juliogc02@email.com)
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 💡 _Feito com paixão pelo código!_ 🚀
